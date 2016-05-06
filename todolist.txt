@@ -1,2 +1,3 @@
 1.kaggle psd:xxxxxxxxxxxx2016
 2.机器学习博客：http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html
+3.python theano模块
