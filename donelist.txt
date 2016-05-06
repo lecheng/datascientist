@@ -2,3 +2,5 @@
 参考链接：http://dataconomy.com/python-packages-for-data-mining/
 2.线性回归
 参考链接：http://blog.csdn.net/suipingsp/article/details/42101139
+3.最小二乘法
+参考链接：http://blog.csdn.net/lotus___/article/details/20546259
